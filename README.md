@@ -1,146 +1,220 @@
-<!-- Profile README for https://github.com/Af1ah -->
-<!-- Place this file in a repo named exactly your username: Af1ah/Af1ah -->
+<!-- Profile README for https://github.com/Af1ah  --><!-- Place this file in a repo named exactly your username: Af1ah/Af1ah --><div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Aflah+%F0%9F%91%8B;BCA+Student+%2B+Junior+Mobile+Developer;React+%2B+React+Native+%2B+Next.js;Building+AI-powered+apps+for+India;Learning+daily+%7C+Open+to+freelance+work" alt="Typing SVG" /><a href="https://aflahdev.me"><img src="https://img.shields.io/badge/Portfolio-aflahdev.me-111111?style=for-the-badge&logo=vercel" /></a> <a href="mailto:aflah.personal.dev@gmail.com"><img src="https://img.shields.io/badge/Email-aflah.personal.dev%40gmail.com-red?style=for-the-badge&logo=gmail" /></a> <a href="https://t.me/yourtelegram"><img src="https://img.shields.io/badge/Telegram-@yourtelegram-2CA5E0?style=for-the-badge&logo=telegram" /></a> <a href="https://www.linkedin.com/in/your-linkedin"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a> <a href="https://www.fiverr.com/your-fiverr"><img src="https://img.shields.io/badge/Fiverr-Available%20for%20hire-00B22D?style=for-the-badge&logo=fiverr" /></a>
 
-<div align="center">
+<br/><img src="https://img.shields.io/github/followers/Af1ah?label=Followers&style=social"/>
+<img src="https://img.shields.io/github/stars/Af1ah?affiliations=OWNER%2CCOLLABORATOR&style=social"/>
+<img src="https://komarev.com/ghpvc/?username=Af1ah&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" /></div>
+---
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00E5FF&center=true&vCenter=true&width=820&lines=Hey%2C+I'm+Aflah+%F0%9F%91%8B;BCA+Student+%2B+Junior+Mobile+Developer;React+%2B+React+Native+%2B+Next.js;Building+AI-powered+apps+for+India;Learning+daily+%7C+Open+to+freelance+work" alt="Typing SVG" />
+🙋‍♂️ About Me
 
-<!-- Social Badges -->
+🇮🇳 Kerala-based BCA student and junior mobile developer
+
+💻 Focus: React, React Native, Next.js, Node, Firebase
+
+🤖 Building with AI (ChatGPT, Gemini 2.5, Claude) to ship faster
+
+📦 Currently working on Alex — an AI-powered WhatsApp assistant (Next.js + Gemini + Firebase)
+
+🚀 Open to collaborations and freelance projects: landing pages, mobile apps, AI chatbots
+
+
+🧰 Tech & Tools
+
 <p>
-  <a href="https://aflahdev.me">
-      <img src="https://img.shields.io/badge/Portfolio-aflahdev.me-111111?style=for-the-badge&logo=vercel" />
-        </a>
-          <a href="mailto:aflah.personal.dev@gmail.com">
-              <img src="https://img.shields.io/badge/Email-aflah.personal.dev%40gmail.com-red?style=for-the-badge&logo=gmail" />
-                </a>
-                  <a href="https://t.me/yourtelegram">
-                      <img src="https://img.shields.io/badge/Telegram-@yourtelegram-2CA5E0?style=for-the-badge&logo=telegram" />
-                        </a>
-                          <a href="https://www.linkedin.com/in/your-linkedin">
-                              <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-                                </a>
-                                  <a href="https://www.fiverr.com/your-fiverr">
-                                      <img src="https://img.shields.io/badge/Fiverr-Available%20for%20hire-00B22D?style=for-the-badge&logo=fiverr" />
-                                        </a>
-                                        </p>
+  <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,ts,js,tailwind,materialui,redux,nodejs,express,firebase,postgres,prisma,vercel,git,github,vscode,androidstudio,kotlin,figma" />
+</p>🧪 AI & Productivity
 
-                                        <!-- GitHub Stats Badges -->
-                                        <p>
-                                          <img src="https://img.shields.io/github/followers/Af1ah?label=Followers&style=social"/>
-                                            <img src="https://img.shields.io/github/stars/Af1ah?affiliations=OWNER%2CCOLLABORATOR&style=social"/>
-                                              <img src="https://komarev.com/ghpvc/?username=Af1ah&label=Profile+Views&color=0e75b6&style=flat" alt="Profile views" />
-                                                <img src="https://img.shields.io/badge/Repos-23-blue?style=social&logo=github"/>
-                                                  <img src="https://img.shields.io/badge/Since-2021-green?style=social&logo=github"/>
-                                                  </p>
+<p>
+  <img src="https://img.shields.io/badge/AI-ChatGPT-10a37f?logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini-2.5-4285F4?logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-Opus-8A2BE2"/>
+  <img src="https://img.shields.io/badge/Prompting-Engineer-7C3AED"/>
+</p>
+---
 
-                                                  </div>
+🌟 Featured Projects
 
-                                                  ---
+> 🔖 Tip: Update repo links & descriptions as you ship!
 
-                                                  ## 🙋‍♂️ About Me
 
-                                                  🇮🇳 **Kerala-based BCA student** and junior mobile developer  
-                                                  💻 **Focus:** React, React Native, Next.js, Node, Firebase  
-                                                  🤖 **Building with AI** (ChatGPT, Gemini 2.5, Claude) to ship faster  
-                                                  📦 **Currently working on** Alex — an AI-powered WhatsApp assistant (Next.js + Gemini + Firebase)  
-                                                  🚀 **Open to collaborations** and freelance projects: landing pages, mobile apps, AI chatbots  
 
-                                                  ---
+Alex — WhatsApp AI Assistant
+Next.js + Gemini 2.5 Pro + Firebase. Real-time product lookup, subscription tiers, Telegram /alex bot integration.
+Demo: coming soon • Tech: Next.js, Gemini, Firebase, Webhooks, Vercel
+Repo: [private/coming soon]
 
-                                                  ## 🧰 Tech & Tools
+React To‑Do (Minimal)
+Simple CRUD with localStorage and clean UI for beginners.
+🔗 Repo: https://github.com/Af1ah/ToDo-app
 
-                                                  ### **Frontend & Mobile**
-                                                  <p>
-                                                    <img src="https://skillicons.dev/icons?i=react,reactnative,nextjs,ts,js,tailwind,materialui,redux" />
-                                                    </p>
+Registration Form (Next.js)
+Accessible form with validation; deploy-ready on Vercel.
+🔗 Repo: https://github.com/Af1ah/Registration-form-
 
-                                                    ### **Backend & Database**
-                                                    <p>
-                                                      <img src="https://skillicons.dev/icons?i=nodejs,express,firebase,postgres,prisma,supabase" />
-                                                      </p>
+Portfolio — aflahdev.me
+Minimal black & white theme (Next.js + shadcn/ui + Tailwind).
+🔗 Site: https://aflahdev.me
 
-                                                      ### **Development & Design**
-                                                      <p>
-                                                        <img src="https://skillicons.dev/icons?i=git,github,vscode,androidstudio,kotlin,figma,vercel" />
-                                                        </p>
 
-                                                        ### **🧪 AI & Productivity**
-                                                        <p>
-                                                          <img src="https://img.shields.io/badge/AI-ChatGPT-10a37f?logo=openai&logoColor=white"/>
-                                                            <img src="https://img.shields.io/badge/Gemini-2.5-4285F4?logo=google&logoColor=white"/>
-                                                              <img src="https://img.shields.io/badge/Claude-Opus-8A2BE2"/>
-                                                                <img src="https://img.shields.io/badge/Prompting-Engineer-7C3AED"/>
-                                                                  <img src="https://img.shields.io/badge/Copilot-GitHub-000000?logo=github"/>
-                                                                  </p>
+<details>
+<summary><b>📌 Optional: Auto Project Cards</b></summary>Add your own repo names below ⤵️
 
-                                                                  ---
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Af1ah&repo=ToDo-app&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Af1ah&repo=Registration-form-&theme=tokyonight"/>
+</p></details>
+---
 
-                                                                  ## 🌟 Featured Projects
+📈 GitHub at a Glance
 
-                                                                  > 🔖 **Tip:** Constantly shipping and improving!
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Af1ah&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Af1ah&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Af1ah&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p><details>
+<summary><b>🏆 Trophies + Activity Graph (optional)</b></summary><p>
+  <img src="https://github-profile-trophy.vercel.app/?username=Af1ah&theme=onedark&no-frame=true&row=1&column=7"/>
+</p><p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Af1ah&theme=tokyo-night&hide_border=true"/>
+</p></details>
+---
 
-                                                                  <table>
-                                                                  <tr>
-                                                                  <td width="50%">
+🔭 What I'm Learning Now (2025)
 
-                                                                  ### 🤖 **Alex — WhatsApp AI Assistant**
-                                                                  Next.js + Gemini 2.5 Pro + Firebase. Real-time product lookup, subscription tiers, Telegram /alex bot integration.
+Deep dive into React Native (navigation, native modules, performance)
 
-                                                                  **Tech:** Next.js, Gemini, Firebase, Webhooks, Vercel  
-                                                                  **Status:** 🚧 In Development  
-                                                                  **Demo:** Coming soon
+Next.js 15 App Router patterns, server actions, RSC
 
-                                                                  </td>
-                                                                  <td width="50%">
+Firebase (Auth, Firestore, FCM, Functions) for mobile + web
 
-                                                                  ### 🎨 **Portfolio — aflahdev.me**
-                                                                  Minimal black & white theme showcasing projects and skills.
+AI in production: safeguards, prompt injection defenses, user consent
 
-                                                                  **Tech:** Next.js, shadcn/ui, Tailwind CSS  
-                                                                  **Status:** ✅ Live  
-                                                                  🔗 **[Visit Site](https://aflahdev.me)**
 
-                                                                  </td>
-                                                                  </tr>
-                                                                  <tr>
-                                                                  <td width="50%">
+💼 Services (India‑friendly)
 
-                                                                  ### ✅ **React To-Do (Minimal)**
-                                                                  Simple CRUD with localStorage and clean UI for beginners.
+⚡ Landing pages for startups & college fests (1–3 days)
 
-                                                                  **Tech:** React, localStorage, CSS  
-                                                                  **Status:** ✅ Complete  
-                                                                  🔗 **[GitHub](https://github.com/Af1ah/ToDo-app)**
+📱 React Native MVPs (Firebase backend)
 
-                                                                  </td>
-                                                                  <td width="50%">
+🤖 AI chatbots for WhatsApp/Telegram/Web (Gemini/ChatGPT)
 
-                                                                  ### 📝 **Registration Form (Next.js)**
-                                                                  Accessible form with validation; deploy-ready on Vercel.
+🛠️ Fix & upgrade existing React/Next.js projects
 
-                                                                  **Tech:** Next.js, Form Validation  
-                                                                  **Status:** ✅ Complete  
-                                                                  🔗 **[GitHub](https://github.com/Af1ah/Registration-form-)**
 
-                                                                  </td>
-                                                                  </tr>
-                                                                  </table>
+> 📬 Business: mailto:aflah.personal.dev@gmail.com • Telegram: @yourtelegram • Fiverr: /your-fiverr
 
-                                                                  <details>
-                                                                  <summary><b>📌 Auto Project Cards</b></summary>
 
-                                                                  <p align="center">
-                                                                    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Af1ah&repo=ToDo-app&theme=tokyonight"/>
-                                                                      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Af1ah&repo=Registration-form-&theme=tokyonight"/>
-                                                                      </p>
 
-                                                                      </details>
 
-                                                                      ---
+---
 
-                                                                      ## 📈 GitHub Analytics
+🧾 Certs & Achievements
 
-                                                                      <p align="center">
+Google Cloud Arcade / Firebase mini-challenges (WIP)
+
+Hackathon participations – μLearn & campus events
+
+Top 3 college projects (Department of Computer Science & Applications) — Tanur
+
+
+
+---
+
+🗺️ Roadmap & Learning Logs
+
+I share progress, notes, and small wins every week.
+
+Weeknotes → /notes
+
+Now Page → /now
+
+Projects → /projects
+
+
+<details>
+<summary><b>🧠 Daily Study Routine (quick view)</b></summary>45m React/Next.js
+
+45m React Native
+
+30m AI/Prompting
+
+30m DSA/JS fundamentals
+
+30m Ship something small (commit, issue, PR)
+
+
+</details>
+---
+
+🤝 Let's Connect
+
+🌐 Portfolio: aflahdev.me
+
+🧾 Resume: add a public link here
+
+💬 Open for mentorship & collabs
+
+
+
+---
+
+🐍 Optional: Contribution Snake (requires GitHub Action)
+
+Add this to show a dynamic contribution snake.
+
+![snake gif](https://github.com/Af1ah/Af1ah/blob/output/github-contribution-grid-snake.svg)
+
+Setup: Create a repo workflow at .github/workflows/snake.yml:
+
+name: Generate Snake
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+  push: { branches: [main] }
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: Af1ah
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+---
+
+⚙️ How to Use This README
+
+1. Create repo Af1ah/Af1ah and add this README.md.
+
+
+2. Replace placeholders: email, LinkedIn, Telegram, Fiverr, resume.
+
+
+3. (Optional) Enable sections inside <details> blocks.
+
+
+4. (Optional) Update repo names in Auto Project Cards.
+
+
+5. Commit → Push → Done ✅
+
+
+
+
+---
+
+<p align="center">
+  <i>Built with ❤️ using Markdown, Shields, skillicons, and GitHub widgets.</i>
+</p>                                       <p align="center">
                                                                         <img src="https://github-readme-stats.vercel.app/api?username=Af1ah&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
                                                                           <img src="https://github-readme-streak-stats.herokuapp.com?user=Af1ah&theme=tokyonight&hide_border=true" height="180"/>
                                                                           </p>
