@@ -77,6 +77,7 @@ Add your own repo names below ⤵️
 </details>
 
 ---
+https://github-readme-stats.hackclub.dev/api/wakatime?username=15253&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=codeSTACKr
 
 ## 📈 GitHub at a Glance
 
