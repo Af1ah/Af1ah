@@ -9,9 +9,8 @@
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aflahdev.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-aflah-karumban)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Af1ah)
 
 </div>
 
@@ -37,96 +36,7 @@ const aflah = {
 
 ---
 
-## 💼 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 OBE Calculator
-**Academic Outcome Assessment System**
-
-A comprehensive Moodle plugin that automates Program Outcome (PO), Program Specific Outcome (PSO), and Course Outcome (CO) calculations based on student performance and activities.
-
-**Tech Stack:**
-- PHP (Moodle API)
-- MySQL
-- JavaScript
-- Moodle Integration
-
-**Key Features:**
-- ✅ Automated outcome calculation
-- 📊 Real-time performance analytics
-- 🔗 Seamless Moodle integration
-- 📈 Detailed reporting system
-
-</td>
-<td width="50%">
-
-### 📱 Moodle Mobile App
-**Custom LMS Mobile Experience**
-
-A feature-rich mobile application providing seamless access to Moodle LMS with enhanced user experience and offline capabilities.
-
-**Tech Stack:**
-- React Native (Expo)
-- TypeScript
-- Moodle Web Services API
-- AsyncStorage
-
-**Key Features:**
-- 🌐 Full Moodle integration
-- 📴 Offline content access
-- 🔔 Push notifications
-- 🎨 Modern, intuitive UI
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 💰 Expense Tracker
-**Personal Finance Management**
-
-A hobby project for tracking daily expenses with clean UI and insightful analytics to help manage personal finances effectively.
-
-**Tech Stack:**
-- React Native (Expo)
-- TypeScript
-- SQLite
-- React Navigation
-
-**Key Features:**
-- 💸 Quick expense logging
-- 📊 Visual analytics & charts
-- 🏷️ Category management
-- 🔍 Search & filter options
-
-</td>
-<td width="50%">
-
-### 🌐 Portfolio Website
-**Personal Brand & Showcase**
-
-A modern, responsive portfolio website showcasing my work, skills, and professional journey with smooth animations and engaging design.
-
-**Tech Stack:**
-- Next.js 14
-- TypeScript
-- Tailwind CSS
-- Framer Motion
-
-**Highlights:**
-- ⚡ Lightning-fast performance
-- 🎨 Beautiful animations
-- 📱 Fully responsive
-- ♿ Accessible design
-
-</td>
-</tr>
-</table>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -169,25 +79,16 @@ A modern, responsive portfolio website showcasing my work, skills, and professio
 
 <div align="center">
   
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" />
+<!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Af1ah&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=FFFFFF&count_private=true" alt="GitHub Stats" /> -->
+<img width="49%" src="https://streak-stats.demolab.com/?user=Af1ah&theme=radical&hide_border=true&background=0D1117&stroke=6366F1&ring=6366F1&fire=FF6B6B&currStreakLabel=FFFFFF" alt="GitHub Streak" /><br>
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Af1ah&theme=radical" alt="Top Languages by Repo" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Af1ah&theme=radical" alt="Top Languages by Commits" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=FFFFFF" alt="Top Languages" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph" />
-
-</div>
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Af1ah&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF" alt="Contribution Graph" />
 
 </div>
 
----
+
 
 ## 💭 Developer Wisdom
 
@@ -201,7 +102,7 @@ A modern, responsive portfolio website showcasing my work, skills, and professio
 
 ## 🤝 Let's Connect!
 
-<div align="center">
+<div>
 
 I'm always excited to collaborate on interesting projects, especially in:
 - 🎓 **Educational Technology & LMS Development**
@@ -212,7 +113,7 @@ I'm always excited to collaborate on interesting projects, especially in:
 
 **Feel free to reach out for collaborations or just a friendly chat!**
 
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:muhammadaflah23524@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_Website-6366F1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://aflahdev.me)
 
 </div>
@@ -225,9 +126,9 @@ I'm always excited to collaborate on interesting projects, especially in:
 
 If you find my projects helpful or interesting, consider supporting my work:
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/yourhandle)
+
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/yourhandle)
-[![Ko-Fi](https://img.shields.io/badge/Ko--Fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourhandle)
+
 
 **Your support helps me create more open-source projects and educational content! 🙏**
 
@@ -237,13 +138,10 @@ If you find my projects helpful or interesting, consider supporting my work:
 
 <div align="center">
   
-### 💼 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/yourusername/count.svg)
 
 ### 📈 Currently
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Af1ah&theme=react-dark&hide_border=true&bg_color=0D1117&color=6366F1&line=6366F1&point=FFFFFF&area=true" width="100%"/>
 
 ---
 
